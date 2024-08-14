@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [rakeeshvellaisamy](https://github.com/rakeshvellaisamy)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/rakeshvellaisamy)
-
 - 💬 Ask me about ** Salesforce, WordPress, Pixellab **
 
 - 📫 How to reach me **rakeshvellaisamy1@outlook.com**
