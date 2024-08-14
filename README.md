@@ -16,12 +16,14 @@
 
 - 📫 How to reach me **rakeshvellaisamy1@outlook.com**
 
+- Payment method  [paypal](https://www.paypal.me/1rakeshvellaisamy)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rakeshvellaisamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh vellaisamy" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rakeshvellaisamy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="rakesh vellaisamy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rakeshvellaisamy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="rakesh vellaisamy" height="30" width="40" /></a> <a href="https://www.salesforce.com/trailblazer/rakeshvellaisamy" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" alt="rakesh vellaisamy" height="30" width="40" /></a> <a href="https://youtube.com/@rakeshvellaisamy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/72/YouTube_social_white_square_%282017%29.svg" alt="rakesh vellaisamy" height="30" width="40" /></a> <a href="https://t.me/rakeshvellaisamy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="rakesh vellaisamy" height="30" width="40" /></a> <a href="https://www.snapchat.com/add/rakeshvellasamy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Snapcode_barcode.svg" alt="rakesh vellaisamy" height="30" width="40" /></a> <a href="https://www.instagram.com/rakeshvellaisamy/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="rakesh vellaisamy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
