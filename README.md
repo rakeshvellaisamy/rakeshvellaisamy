@@ -1,9 +1,9 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 ## Introduction
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-
 <h3 align="center">Hey there, I'm <a href="https://github.com/rakeshvellaisamy">rakeshvellaisamy</a></h3>
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
