@@ -59,18 +59,18 @@
 ## Languages and Tools
 <p align="left"> <p align="left"> <a href="https://github.com/rakeshvellaisamy"><img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,js,py"> </a> </p></p> <a href="[https://www.salesforce.com/in]" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" alt="xd" width="40" height="40"/> </a> <p align="left"> </p>
 
-## My Stats:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=rakeshvellaisamy&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
+<h2>Languages i know</h2>
 
-## Activity On GitHub
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
-<p align="center">
-  <a href="https://github.com/rakeshvellaisamy">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshvellaisamy&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
+<h2>My Github stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rakeshvellaisamy&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshvellaisamy&theme=radical&layout=compact">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshvellaisamy&theme=radical&layout=compact">
 
 ## Top Respositorys
   <p align="left">
@@ -78,3 +78,8 @@
     <a href="https://github.com/rakeshvellaisamy/job_Application_Tracking_System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rakeshvellaisamy&repo=job_Application_Tracking_System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/rakeshvellaisamy/rakeshvellaisamy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rakeshvellaisamy&repo=rakeshvellaisamy&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
+  
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
