@@ -47,6 +47,11 @@
     </tr>
   </table>
 
+  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+
 ## Top Sponsors
 
    <a href="https://github.com/sponsors/rakeshvellaisamy"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
@@ -82,4 +87,3 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
