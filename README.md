@@ -16,7 +16,7 @@
 ## What I'm Doing
 - 🔭 I’m currently working on [Goats Hub](http://www.goatshub.liveblog365.com)
 
-- 👨‍💻 All of my projects are available at [rakeeshvellaisamy](https://github.com/rakeshvellaisamy)
+- 👨‍💻 All of my projects are available at [rakeshvellaisamy](https://github.com/rakeshvellaisamy)
 
 - 💬 Ask me about ** Salesforce, WordPress, Pixellab **
 
