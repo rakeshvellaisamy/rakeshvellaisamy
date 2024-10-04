@@ -70,6 +70,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Apex](https://img.shields.io/badge/-Apex-05122A?style=flat&logo=apex)&nbsp;
 
 <h2>My Github stats</h2>
 
