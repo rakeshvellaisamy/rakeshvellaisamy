@@ -1,5 +1,3 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-
 ## Introduction
 <h3 align="center">Hey there, I'm <a href="https://github.com/rakeshvellaisamy">rakeshvellaisamy</a></h3>
 
@@ -14,11 +12,11 @@
  </p>
 
 ## What I'm Doing
-- 🔭 I’m currently working on [Goats Hub](http://www.goatshub.liveblog365.com)
+- 🔭 I’m currently working on [Updating Soon](EmptyURL)
 
-- 👨‍💻 All of my projects are available at [rakeshvellaisamy](https://github.com/rakeshvellaisamy)
+- 👨‍💻 All of my projects are available at [Click Here](https://github.com/rakeshvellaisamy)
 
-- 💬 Ask me about ** Salesforce, WordPress, Pixellab **
+- 💬 Ask me about ** Pixellab **
 
 - 📫 How to reach me **rakeshvellaisamy1@outlook.com**
 
@@ -46,41 +44,67 @@
       </td>
     </tr>
   </table>
-
-  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 
 ## Top Sponsors
-
    <a href="https://github.com/sponsors/rakeshvellaisamy"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
 
-## Connect with me
-<a href="https://www.linkedin.com/in/rakeshvellaisamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh vellaisamy" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rakeshvellaisamy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="rakesh vellaisamy" height="30" width="40" /></a> <a href="https://www.salesforce.com/trailblazer/rakeshvellaisamy" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" alt="rakesh vellaisamy" height="30" width="40" /></a> <a href="https://youtube.com/@rakeshvellaisamy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/72/YouTube_social_white_square_%282017%29.svg" alt="rakesh vellaisamy" height="30" width="40" /></a> <a href="https://t.me/rakeshvellaisamy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="rakesh vellaisamy" height="30" width="40" /></a> <a href="https://www.snapchat.com/add/rakeshvellasamy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Snapcode_barcode.svg" alt="rakesh vellaisamy" height="30" width="40" /></a> <a href="https://www.instagram.com/rakeshvellaisamy/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="rakesh vellaisamy" height="30" width="40" /></a>
-</p>
+## 🌐 Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakeshvellaisamy) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakeshvellaisamy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshvellaisamy) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rakeshvellaisamy) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rakeshvellasami) 
 
-## Languages and Tools
-<p align="left"> <p align="left"> <a href="https://github.com/rakeshvellaisamy"><img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,js,py"> </a> </p></p> <a href="[https://www.salesforce.com/in]" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" alt="xd" width="40" height="40"/> </a> <p align="left"> </p>
+## Languages
+![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-<h2>Languages i know</h2>
+## Hosting/SaaS
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Apex](https://img.shields.io/badge/-Apex-05122A?style=flat&logo=apex)&nbsp;
+## Frameworks, Platforms & Libraries
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 
-<h2>My Github stats</h2>
+## Servers
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
+## Databases / ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+## Design / UI/UX
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=Behance&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## CI/CD VCS
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+## Other Tools
+![Notepad](https://img.shields.io/badge/Notepad-000000?style=for-the-badge&logo=Notepad&logoColor=white)
+![VScode](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscode&logoColor=white)
+![Capacities](https://img.shields.io/badge/Capacities-000000?style=for-the-badge&logo=Capacities&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
+<h2>📊 My Github stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=rakeshvellaisamy&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshvellaisamy&theme=radical&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshvellaisamy&theme=radical&layout=compact">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshvellaisamy&theme=radical&layout=compact">
+
 
 ## Top Respositorys
   <p align="left">
-     <a href="https://github.com/rakeshvellaisamy/Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rakeshvellaisamy&repo=Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/rakeshvellaisamy/job_Application_Tracking_System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rakeshvellaisamy&repo=job_Application_Tracking_System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/rakeshvellaisamy/rakeshvellaisamy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rakeshvellaisamy&repo=rakeshvellaisamy&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
@@ -88,3 +112,5 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
